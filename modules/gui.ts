@@ -1,4 +1,4 @@
-import Product from "./Product";
+import Product from "./Product.ts";
 
 /**
  * Creates a product card for each Product in an array and appends it to a div container
